@@ -54,7 +54,7 @@
     "core-js": "^2.5.4",
     "express-session": "^1.16.2",
     "keycloak-angular": "^6.1.0",
-    "keycloak-connect": "^6.0.1",
+    "keycloak-connect": "^21.0.1",
     "passport": "^0.4.0",
     "passport-http-bearer": "^1.0.1",
     "reflect-metadata": "^0.1.12",
